@@ -33,7 +33,7 @@ render() {
       </header>
     <p>Hello Nabeel</p>
     <p>{this.state.apiResponse}</p>
-    <p><p>pull request working</p>
+    <p>pull request working</p>
     </div>
   );
 }
